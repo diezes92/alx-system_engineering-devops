@@ -1,2 +1,2 @@
-#!/bin/bash
-rsync -au --include='*.html' --exclude='*' . ../
+#!/bin/bash'
+cp *.html ../
